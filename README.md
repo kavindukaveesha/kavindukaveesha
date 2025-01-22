@@ -14,7 +14,6 @@
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/kavindukaveesha/kavindukaveesha/output/github-snake.svg)
 
 <h2 align="center">🚀 Full Stack Developer & Solutions Architect</h2>
 
@@ -110,7 +109,7 @@ const me: Developer = {
 - [View Project](https://github.com/kavindukaveesha/Medicine-managing-app)
 
 ### Construction Helper Project
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 - 🏗️ Construction project management solution
 - 📊 Real-time progress tracking
 - 🤝 Team collaboration features
@@ -121,14 +120,14 @@ const me: Developer = {
 <summary><b>Web Development 💻</b></summary>
 
 ### Auction Website API
-!.Net Core](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![.Net Core](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring) ![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
 - 🛠️ RESTful API for auction management
 - 🔐 Advanced authentication system
 - 💰 Real-time bidding functionality
 - [View Project](https://github.com/kavindukaveesha/Thaprobid-Auction-Website-API-)
 
 ### Social Book Network
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) ![MYSQL](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 - 📚 Social platform for book lovers
 - 🔍 Advanced search and recommendation system
 - 👥 User interaction features
