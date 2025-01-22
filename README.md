@@ -106,10 +106,10 @@ const me: Developer = {
 </a>
 
 ### Web Development
-<a href="https://github.com/kavindukaveesha/next-era-innovations">
+<a href="https://github.com/kavindukaveesha/Thaprobid-Auction-Website-API-">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kavindukaveesha&repo=next-era-innovations&theme=transparent&hide_border=true&title_color=4ADE80&text_color=FFFFFF&icon_color=4ADE80&bg_color=00000000" />
 </a>
-<a href="https://github.com/kavindukaveesha/real-estate-market">
+<a href="https://github.com/kavindukaveesha/Social-Book-Network">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=kavindukaveesha&repo=real-estate-market&theme=transparent&hide_border=true&title_color=4ADE80&text_color=FFFFFF&icon_color=4ADE80&bg_color=00000000" />
 </a>
 
@@ -142,13 +142,3 @@ const me: Developer = {
 
 ---
 
-<div align="center">
-
-### 🌟 Support My Work
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](Your-BuyMeACoffee-URL)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](Your-PayPal-URL)
-
-### Show some ❤️ by starring repositories!
-
-</div>
