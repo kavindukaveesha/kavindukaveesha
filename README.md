@@ -94,48 +94,100 @@ const me: Developer = {
 
 </div>
 
-<h2 align="center">📱 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <div align="center">
+  
+<!-- Mobile Development Section -->
+<div style="width: 100%; margin-bottom: 30px;">
+  <h3>📱 Mobile Development</h3>
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <!-- Medicine Managing App -->
+    <a href="https://github.com/kavindukaveesha/Medicine-managing-app" style="text-decoration: none; color: inherit;">
+      <div style="width: 350px; padding: 20px; background-color: #1A1B27; border-radius: 10px; border: 1px solid #4ADE80; margin: 10px;">
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+        </div>
+        <h3 style="color: #4ADE80; margin: 10px 0;">Medicine Managing App</h3>
+        <p style="margin: 10px 0;">📱 Cross-platform mobile application for medicine management with real-time cloud synchronization and advanced analytics.</p>
+        <div style="display: flex; gap: 5px; margin-top: 15px; flex-wrap: wrap;">
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Real-time Sync</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Analytics</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Cloud Database</span>
+        </div>
+      </div>
+    </a>
 
-<details>
-<summary><b>Mobile Development 📱</b></summary>
-
-### Medicine Managing App
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-- 📱 Cross-platform mobile application for medicine management
-- 🔄 Real-time synchronization with cloud database
-- 📊 Advanced analytics and reporting features
-- [View Project](https://github.com/kavindukaveesha/Medicine-managing-app)
-
-### Construction Helper Project
-![Flutter](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- 🏗️ Construction project management solution
-- 📊 Real-time progress tracking
-- 🤝 Team collaboration features
-- [View Project](https://github.com/kavindukaveesha/Cunstruction-Helper-Project-full)
-</details>
-
-<details>
-<summary><b>Web Development 💻</b></summary>
-
-### Auction Website API
-![.Net Core](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring) ![MySQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-- 🛠️ RESTful API for auction management
-- 🔐 Advanced authentication system
-- 💰 Real-time bidding functionality
-- [View Project](https://github.com/kavindukaveesha/Thaprobid-Auction-Website-API-)
-
-### Social Book Network
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) ![MYSQL](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-- 📚 Social platform for book lovers
-- 🔍 Advanced search and recommendation system
-- 👥 User interaction features
-- [View Project](https://github.com/kavindukaveesha/Social-Book-Network)
-</details>
-
+    <!-- Construction Helper Project -->
+    <a href="https://github.com/kavindukaveesha/Cunstruction-Helper-Project-full" style="text-decoration: none; color: inherit;">
+      <div style="width: 350px; padding: 20px; background-color: #1A1B27; border-radius: 10px; border: 1px solid #4ADE80; margin: 10px;">
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        </div>
+        <h3 style="color: #4ADE80; margin: 10px 0;">Construction Helper Project</h3>
+        <p style="margin: 10px 0;">🏗️ Comprehensive construction project management solution with real-time tracking and team collaboration features.</p>
+        <div style="display: flex; gap: 5px; margin-top: 15px; flex-wrap: wrap;">
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Project Management</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Real-time Tracking</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Team Collaboration</span>
+        </div>
+      </div>
+    </a>
+  </div>
 </div>
 
+<!-- Web Development Section -->
+<div style="width: 100%; margin-bottom: 30px;">
+  <h3>💻 Web Development</h3>
+  <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+    <!-- Auction Website API -->
+    <a href="https://github.com/kavindukaveesha/Thaprobid-Auction-Website-API-" style="text-decoration: none; color: inherit;">
+      <div style="width: 350px; padding: 20px; background-color: #1A1B27; border-radius: 10px; border: 1px solid #4ADE80; margin: 10px;">
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        </div>
+        <h3 style="color: #4ADE80; margin: 10px 0;">Auction Website API</h3>
+        <p style="margin: 10px 0;">🛠️ Robust RESTful API system for auction management with real-time bidding and secure authentication.</p>
+        <div style="display: flex; gap: 5px; margin-top: 15px; flex-wrap: wrap;">
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">RESTful API</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Real-time Bidding</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Authentication</span>
+        </div>
+      </div>
+    </a>
+
+    <!-- Social Book Network -->
+    <a href="https://github.com/kavindukaveesha/Social-Book-Network" style="text-decoration: none; color: inherit;">
+      <div style="width: 350px; padding: 20px; background-color: #1A1B27; border-radius: 10px; border: 1px solid #4ADE80; margin: 10px;">
+        <div style="display: flex; align-items: center; margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        </div>
+        <h3 style="color: #4ADE80; margin: 10px 0;">Social Book Network</h3>
+        <p style="margin: 10px 0;">📚 Interactive social platform for book enthusiasts with advanced search and recommendation features.</p>
+        <div style="display: flex; gap: 5px; margin-top: 15px; flex-wrap: wrap;">
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Social Platform</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Search System</span>
+          <span style="background-color: #2D2E3B; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Recommendations</span>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+
+<div align="center">
+  <a href="https://github.com/kavindukaveesha?tab=repositories" style="text-decoration: none;">
+    <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Projects-4ADE80?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</div>
+
+</div>
+</div>
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
