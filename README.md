@@ -74,84 +74,83 @@ const me: Developer = {
 ## 🌐 Web Frontend
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="10">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/>
-        <br /><b>React</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/react-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/reactjs.jpg" width="250" style="border-radius:10px" alt="React Projects"/>
-        </a>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/react-projects"><b>View Projects →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">React</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/react-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/reactjs.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="React Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/react-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js"/>
-        <br /><b>Next.js</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/nextjs-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nextjs.jpg" width="250" style="border-radius:10px" alt="Next.js Projects"/>
-        </a>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/nextjs-projects"><b>View Projects →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">Next.js</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/nextjs-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nextjs.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="Next.js Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/nextjs-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular"/>
-        <br /><b>Angular</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/angular-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/angular.jpg" width="250" style="border-radius:10px" alt="Angular Projects"/>
-        </a>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/angular-projects"><b>View Projects →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">Angular</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/angular-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/angular.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="Angular Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/angular-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
     </tr>
   </table>
 </div>
-
-<details>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/><br><b>HTML5</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/><br><b>CSS3</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/><br><b>JavaScript</b></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/><br><b>TypeScript</b></td>
-    </tr>
-  </table>
-</div>
-</details>
 
 <br>
 
 ## 📱 Mobile Development
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="10">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter"/>
-        <br /><b>Flutter</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/flutter-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/flutter.jpg" width="250" style="border-radius:10px" alt="Flutter Projects"/>
-        </a>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/flutter-projects"><b>View Projects →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">Flutter</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/flutter-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/flutter.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="Flutter Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/flutter-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React Native"/>
-        <br /><b>React Native</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/reactnative-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/reactnative.jpg" width="250" style="border-radius:10px" alt="React Native Projects"/>
-        </a>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/reactnative-projects"><b>View Projects →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React Native"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">React Native</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/reactnative-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/reactnative.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="React Native Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/reactnative-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
     </tr>
   </table>
@@ -162,58 +161,76 @@ const me: Developer = {
 ## 🔙 Backend Development
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="10">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot"/>
-        <br /><b>Spring Boot</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/springboot-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/springboot.jpg" width="250" style="border-radius:10px" alt="Spring Boot Projects"/>
-        </a>
-        <br />
-        <a href="https://github.com/kavindukaveesha/springboot-projects"><b>View →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="Spring Boot"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">Spring Boot</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/springboot-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/springboot.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="Spring Boot Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/springboot-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java EE"/>
-        <br /><b>Java EE</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/javaee-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/javaee.jpg" width="250" style="border-radius:10px" alt="Java EE Projects"/>
-        </a>
-        <br />
-        <a href="https://github.com/kavindukaveesha/javaee-projects"><b>View →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java EE"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">Java EE</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/javaee-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/java EE.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="Java EE Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/javaee-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js/Express"/>
-        <br /><b>Node/Express</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/nodejs-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nodejs.jpg" width="250" style="border-radius:10px" alt="Node.js Projects"/>
-        </a>
-        <br />
-        <a href="https://github.com/kavindukaveesha/nodejs-projects"><b>View →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js/Express"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">Node/Express</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/nodejs-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nodejs.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="Node.js Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/nodejs-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-        <br /><b>Python/Django/Flask</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/python-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/python.jpg" width="250" style="border-radius:10px" alt="Python Projects"/>
-        </a>
-        <br />
-        <a href="https://github.com/kavindukaveesha/python-projects"><b>View →</b></a>
+    </tr>
+    <tr>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">Python/Django/Flask</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/python-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/python.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt="Python Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/python-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
-        <br /><b>.NET</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/dotnet-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/dotnet.jpg" width="250" style="border-radius:10px" alt=".NET Projects"/>
-        </a>
-        <br />
-        <a href="https://github.com/kavindukaveesha/dotnet-projects"><b>View →</b></a>
+      <td align="center" class="tech-card">
+        <div class="card-content">
+          <img src="https://skillicons.dev/icons?i=dotnet" width="60" height="60" alt=".NET"/>
+          <br /><b style="font-size: 18px; margin: 10px 0; display: block;">.NET</b>
+          <div class="card-img">
+            <a href="https://github.com/kavindukaveesha/dotnet-projects">
+              <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/dotnet.jpg" width="250" height="150" style="object-fit:cover; border-radius:8px;" alt=".NET Projects"/>
+            </a>
+          </div>
+          <br />
+          <a href="https://github.com/kavindukaveesha/dotnet-projects" class="view-btn">View Projects →</a>
+        </div>
       </td>
+      <td></td>
     </tr>
   </table>
 </div>
@@ -223,57 +240,47 @@ const me: Developer = {
 ## 🗄️ Databases & Storage
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="10">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
-        <br /><b>MongoDB</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/mongodb-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/mongodb.jpg" width="140" style="border-radius:10px" alt="MongoDB Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="100" height="100" alt="MongoDB"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">MongoDB</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/mongodb-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/mongodb-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
-        <br /><b>MySQL</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/mysql-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/mysql.jpg" width="140" style="border-radius:10px" alt="MySQL Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=mysql" width="100" height="100" alt="MySQL"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">MySQL</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/mysql-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/mysql-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL"/>
-        <br /><b>PostgreSQL</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/postgresql-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/postgresql.jpg" width="140" style="border-radius:10px" alt="PostgreSQL Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=postgres" width="100" height="100" alt="PostgreSQL"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">PostgreSQL</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/postgresql-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/postgresql-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
-        <br /><b>Firebase</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/firebase-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/firebase.jpg" width="140" style="border-radius:10px" alt="Firebase Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=firebase" width="100" height="100" alt="Firebase"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">Firebase</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/firebase-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/firebase-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/>
-        <br /><b>Supabase</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/supabase-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/supabase.jpg" width="140" style="border-radius:10px" alt="Supabase Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=supabase" width="100" height="100" alt="Supabase"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">Supabase</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/supabase-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/supabase-projects" class="view-btn">View Projects →</a>
       </td>
     </tr>
   </table>
@@ -284,87 +291,79 @@ const me: Developer = {
 ## ☁️ DevOps & Cloud
 
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="10">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 15px;">
     <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
-        <br /><b>AWS</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/aws-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/aws.jpg" width="140" style="border-radius:10px" alt="AWS Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=aws" width="100" height="100" alt="AWS"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">AWS</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/aws-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/aws-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure"/>
-        <br /><b>Azure</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/azure-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/azure.jpg" width="140" style="border-radius:10px" alt="Azure Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=azure" width="100" height="100" alt="Azure"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">Azure</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/azure-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/azure-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
-        <br /><b>Docker</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/docker-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/docker.jpg" width="140" style="border-radius:10px" alt="Docker Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=docker" width="100" height="100" alt="Docker"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">Docker</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/docker-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/docker-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes"/>
-        <br /><b>Kubernetes</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/kubernetes-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/kubernetes.jpg" width="140" style="border-radius:10px" alt="Kubernetes Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=kubernetes" width="100" height="100" alt="Kubernetes"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">Kubernetes</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/kubernetes-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/kubernetes-projects" class="view-btn">View Projects →</a>
       </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" alt="Jenkins"/>
-        <br /><b>Jenkins</b>
-        <br /><br />
-        <a href="https://github.com/kavindukaveesha/jenkins-projects">
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/jenkins.jpg" width="140" style="border-radius:10px" alt="Jenkins Projects"/>
-        </a>
+      <td align="center" class="db-card">
+        <div class="large-icon">
+          <img src="https://skillicons.dev/icons?i=jenkins" width="100" height="100" alt="Jenkins"/>
+        </div>
+        <br /><b style="font-size: 20px; margin: 10px 0; display: block;">Jenkins</b>
         <br />
-        <a href="https://github.com/kavindukaveesha/jenkins-projects"><b>View →</b></a>
+        <a href="https://github.com/kavindukaveesha/jenkins-projects" class="view-btn">View Projects →</a>
       </td>
     </tr>
   </table>
 </div>
 
 <br>
-<div align="center">
+
 ## 🧠 Machine Learning & AI
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 0;">
     <tr>
-      <td width="400" align="center" valign="middle">
-        <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/machine-learning.jpg" width="380" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Machine Learning & AI"/>
+      <td width="400" align="center" valign="middle" style="padding: 20px;">
+        <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 12px 24px rgba(0, 100, 0, 0.15); transform: perspective(1000px) rotateX(5deg); transition: all 0.3s ease;" onmouseover="this.style.transform='perspective(1000px) rotateX(0) translateY(-10px)'; this.style.boxShadow='0 20px 40px rgba(0, 100, 0, 0.25)';" onmouseout="this.style.transform='perspective(1000px) rotateX(5deg)'; this.style.boxShadow='0 12px 24px rgba(0, 100, 0, 0.15)';">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/ml.jpg" width="380" style="display: block; width: 100%;" alt="Machine Learning & AI"/>
+        </div>
       </td>
-      <td width="500" align="left" valign="top" style="padding-left:25px;">
-        <h3>Machine Learning Journey</h3>
+      <td width="500" align="left" valign="top" style="padding: 20px; background: white; border-radius: 16px; box-shadow: 0 10px 20px rgba(0, 100, 0, 0.12); transform: perspective(800px) rotateY(-5deg); transition: all 0.3s ease;" onmouseover="this.style.transform='perspective(800px) rotateY(0) translateY(-5px)'; this.style.boxShadow='0 15px 30px rgba(0, 100, 0, 0.2)';" onmouseout="this.style.transform='perspective(800px) rotateY(-5deg)'; this.style.boxShadow='0 10px 20px rgba(0, 100, 0, 0.12)';">
+        <h3 style="color: #2e7d32; margin-top: 0;">Machine Learning Journey</h3>
         <p>Currently exploring the fascinating world of AI and Machine Learning to integrate intelligent solutions with web and mobile applications.</p>
         <div style="margin-top:15px;">
-          <b>Areas of Focus:</b>
+          <b style="color: #2e7d32;">Areas of Focus:</b>
           <div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:8px;">
-            <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" title="TensorFlow"/>
-            <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" title="PyTorch"/>
-            <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python"/>
-            <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" title="OpenCV"/>
-            <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" title="Jupyter"/>
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" title="TensorFlow" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+            <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" title="PyTorch" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+            <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+            <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" title="OpenCV" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+            <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" title="Jupyter" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
           </div>
         </div>
         <div style="margin-top:20px;">
-          <b>Learning Goals:</b>
+          <b style="color: #2e7d32;">Learning Goals:</b>
           <ul>
             <li>Computer Vision & Image Recognition</li>
             <li>Natural Language Processing</li>
@@ -373,12 +372,11 @@ const me: Developer = {
           </ul>
         </div>
         <div style="margin-top:15px;">
-          <a href="https://github.com/kavindukaveesha/ml-projects" style="display:inline-block; background-color:#4CAF50; color:white; padding:8px 16px; text-decoration:none; border-radius:5px; font-weight:bold;">View ML Projects →</a>
+          <a href="https://github.com/kavindukaveesha/ml-projects" class="view-btn" style="display:inline-block; background: linear-gradient(135deg, #4aaf51, #2e8835); color:white; padding:8px 16px; text-decoration:none; border-radius:8px; font-weight:bold; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0, 100, 0, 0.15);" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 12px rgba(0, 100, 0, 0.2)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 8px rgba(0, 100, 0, 0.15)';">View ML Projects →</a>
         </div>
       </td>
     </tr>
   </table>
-</div>
 </div>
 
 <hr>
@@ -389,6 +387,7 @@ const me: Developer = {
   <a href="https://linkedin.com/in/kavindukaveesha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:contact@kavindukaveesha.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
+
 <br>
   
 <h2 align="center">🚀 Featured Projects</h2>
