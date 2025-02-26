@@ -57,223 +57,340 @@ const me: Developer = {
 ```
 <div align="center">
   
-  # 💻 Technology Stack
+# 💻 My Technology Universe
+
+<img src="https://img.shields.io/badge/Built%20With-Passion-red?style=for-the-badge" alt="Built With Passion"/> <img src="https://img.shields.io/badge/Code%20Quality-Exceptional-blue?style=for-the-badge" alt="Code Quality"/> <img src="https://img.shields.io/badge/Experience-5%20Years-green?style=for-the-badge" alt="Experience"/>
+
+*Crafting digital experiences with cutting-edge technologies*
   
-  *The technologies I work with to build elegant, efficient, and scalable applications*
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/banner.jpeg" width="800" alt="Tech Banner"/>
+</p>
+
+## 🌐 Web Frontend
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/>
+        <br /><b>React</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/react-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/reactjs.jpg" width="250" style="border-radius:10px" alt="React Projects"/>
+        </a>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/react-projects"><b>View Projects →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js"/>
+        <br /><b>Next.js</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/nextjs-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nextjs.jpg" width="250" style="border-radius:10px" alt="Next.js Projects"/>
+        </a>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/nextjs-projects"><b>View Projects →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular"/>
+        <br /><b>Angular</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/angular-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/angular.jpg" width="250" style="border-radius:10px" alt="Angular Projects"/>
+        </a>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/angular-projects"><b>View Projects →</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/><br><b>HTML5</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/><br><b>CSS3</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/><br><b>JavaScript</b></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/><br><b>TypeScript</b></td>
+    </tr>
+  </table>
+</div>
+</details>
+
+<br>
+
+## 📱 Mobile Development
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flutter" width="60" height="60" alt="Flutter"/>
+        <br /><b>Flutter</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/flutter-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/flutter.jpg" width="250" style="border-radius:10px" alt="Flutter Projects"/>
+        </a>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/flutter-projects"><b>View Projects →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React Native"/>
+        <br /><b>React Native</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/reactnative-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/reactnative.jpg" width="250" style="border-radius:10px" alt="React Native Projects"/>
+        </a>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/reactnative-projects"><b>View Projects →</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🔙 Backend Development
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=spring" width="50" height="50" alt="Spring Boot"/>
+        <br /><b>Spring Boot</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/springboot-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/springboot.jpg" width="250" style="border-radius:10px" alt="Spring Boot Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/springboot-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java EE"/>
+        <br /><b>Java EE</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/javaee-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/javaee.jpg" width="250" style="border-radius:10px" alt="Java EE Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/javaee-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js/Express"/>
+        <br /><b>Node/Express</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/nodejs-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nodejs.jpg" width="250" style="border-radius:10px" alt="Node.js Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/nodejs-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+        <br /><b>Python/Django/Flask</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/python-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/python.jpg" width="250" style="border-radius:10px" alt="Python Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/python-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET"/>
+        <br /><b>.NET</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/dotnet-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/dotnet.jpg" width="250" style="border-radius:10px" alt=".NET Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/dotnet-projects"><b>View →</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🗄️ Databases & Storage
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
+        <br /><b>MongoDB</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/mongodb-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/mongodb.jpg" width="140" style="border-radius:10px" alt="MongoDB Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/mongodb-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+        <br /><b>MySQL</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/mysql-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/mysql.jpg" width="140" style="border-radius:10px" alt="MySQL Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/mysql-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL"/>
+        <br /><b>PostgreSQL</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/postgresql-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/postgresql.jpg" width="140" style="border-radius:10px" alt="PostgreSQL Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/postgresql-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=firebase" width="50" height="50" alt="Firebase"/>
+        <br /><b>Firebase</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/firebase-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/firebase.jpg" width="140" style="border-radius:10px" alt="Firebase Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/firebase-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase"/>
+        <br /><b>Supabase</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/supabase-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/supabase.jpg" width="140" style="border-radius:10px" alt="Supabase Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/supabase-projects"><b>View →</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## ☁️ DevOps & Cloud
+
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
+        <br /><b>AWS</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/aws-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/aws.jpg" width="140" style="border-radius:10px" alt="AWS Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/aws-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure"/>
+        <br /><b>Azure</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/azure-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/azure.jpg" width="140" style="border-radius:10px" alt="Azure Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/azure-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
+        <br /><b>Docker</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/docker-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/docker.jpg" width="140" style="border-radius:10px" alt="Docker Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/docker-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes"/>
+        <br /><b>Kubernetes</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/kubernetes-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/kubernetes.jpg" width="140" style="border-radius:10px" alt="Kubernetes Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/kubernetes-projects"><b>View →</b></a>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="50" height="50" alt="Jenkins"/>
+        <br /><b>Jenkins</b>
+        <br /><br />
+        <a href="https://github.com/kavindukaveesha/jenkins-projects">
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/jenkins.jpg" width="140" style="border-radius:10px" alt="Jenkins Projects"/>
+        </a>
+        <br />
+        <a href="https://github.com/kavindukaveesha/jenkins-projects"><b>View →</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<div align="center">
+## 🧠 Machine Learning & AI
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="400" align="center" valign="middle">
+        <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/machine-learning.jpg" width="380" style="border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Machine Learning & AI"/>
+      </td>
+      <td width="500" align="left" valign="top" style="padding-left:25px;">
+        <h3>Machine Learning Journey</h3>
+        <p>Currently exploring the fascinating world of AI and Machine Learning to integrate intelligent solutions with web and mobile applications.</p>
+        <div style="margin-top:15px;">
+          <b>Areas of Focus:</b>
+          <div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:8px;">
+            <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" title="TensorFlow"/>
+            <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" title="PyTorch"/>
+            <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python"/>
+            <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" title="OpenCV"/>
+            <img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter" title="Jupyter"/>
+          </div>
+        </div>
+        <div style="margin-top:20px;">
+          <b>Learning Goals:</b>
+          <ul>
+            <li>Computer Vision & Image Recognition</li>
+            <li>Natural Language Processing</li>
+            <li>Predictive Analytics for Web Applications</li>
+            <li>Real-time ML Integration in Mobile Apps</li>
+          </ul>
+        </div>
+        <div style="margin-top:15px;">
+          <a href="https://github.com/kavindukaveesha/ml-projects" style="display:inline-block; background-color:#4CAF50; color:white; padding:8px 16px; text-decoration:none; border-radius:5px; font-weight:bold;">View ML Projects →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+</div>
+
+<hr>
+
+<div align="center">
+  <p><strong>Let's connect and build something amazing together!</strong></p>
+  <a href="https://github.com/kavindukaveesha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/kavindukaveesha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:contact@kavindukaveesha.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+<br>
   
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🌐 Web Frontend</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/react-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
-          <br /><b>React</b>
-          <br />
-          <img src="reactjs.jpg" width="250" alt="React Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/nextjs-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
-          <br /><b>Next.js</b>
-          <br />
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nextjs.jpg" width="250" alt="Next.js Projects"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/angular-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="Angular"/>
-          <br /><b>Angular</b>
-          <br />
-          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/angular.jpg" width="250" alt="Angular Projects"/>
-        </a>
-      </td>
-     
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>📱 Mobile Development</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/flutter-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter"/>
-          <br /><b>Flutter</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Flutter+Projects" width="250" alt="Flutter Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/reactnative-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Native"/>
-          <br /><b>React Native</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=React+Native+Projects" width="250" alt="React Native Projects"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🔙 Backend Development</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/nodejs-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
-          <br /><b>Node.js</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Node.js+Projects" width="250" alt="Node.js Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/java-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
-          <br /><b>Java</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Java+Projects" width="250" alt="Java Projects"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/spring-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
-          <br /><b>Spring Boot</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Spring+Boot+Projects" width="250" alt="Spring Boot Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/python-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python (Django/Flask)"/>
-          <br /><b>Python (Django/Flask)</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Python+Projects" width="250" alt="Python Projects"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/dotnet-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" alt=".NET"/>
-          <br /><b>.NET</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=.NET+Projects" width="250" alt=".NET Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/express-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js"/>
-          <br /><b>Express.js</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Express.js+Projects" width="250" alt="Express.js Projects"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>🗄️ Databases</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/mongodb-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
-          <br /><b>MongoDB</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=MongoDB+Projects" width="250" alt="MongoDB Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/mysql-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
-          <br /><b>MySQL</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=MySQL+Projects" width="250" alt="MySQL Projects"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/postgresql-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
-          <br /><b>PostgreSQL</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=PostgreSQL+Projects" width="250" alt="PostgreSQL Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/firebase-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase"/>
-          <br /><b>Firebase</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Firebase+Projects" width="250" alt="Firebase Projects"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>☁️ Cloud Services</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/aws-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS"/>
-          <br /><b>AWS</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=AWS+Projects" width="250" alt="AWS Projects"/>
-        </a>
-      </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/azure-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="Azure"/>
-          <br /><b>Azure</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Azure+Projects" width="250" alt="Azure Projects"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-```
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
