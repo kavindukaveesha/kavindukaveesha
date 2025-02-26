@@ -55,44 +55,231 @@ const me: Developer = {
     ]
 };
 ```
+<div align="center">
+  
+  # 💻 Technology Stack
+  
+  *The technologies I work with to build elegant, efficient, and scalable applications*
+  
+</div>
 
-<h2 align="center">💻 Technology Stack</h2>
+<br>
 
 <div align="center">
-
-### Frontend & Mobile
-![Angular](https://custom-icon-badges.demolab.com/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://custom-icon-badges.demolab.com/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://custom-icon-badges.demolab.com/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Styling & UI
-![Tailwind](https://custom-icon-badges.demolab.com/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://custom-icon-badges.demolab.com/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://custom-icon-badges.demolab.com/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend
-![Spring Boot](https://custom-icon-badges.demolab.com/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![.NET](https://custom-icon-badges.demolab.com/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://custom-icon-badges.demolab.com/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://custom-icon-badges.demolab.com/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Databases
-![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://custom-icon-badges.demolab.com/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://custom-icon-badges.demolab.com/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Cloud Services
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Firebase](https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://custom-icon-badges.demolab.com/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+  <h2>🌐 Web Frontend</h2>
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/react-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
+          <br /><b>React</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=React+Projects" width="250" alt="React Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/nextjs-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
+          <br /><b>Next.js</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Next.js+Projects" width="250" alt="Next.js Projects"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/angular-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="Angular"/>
+          <br /><b>Angular</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Angular+Projects" width="250" alt="Angular Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/vue-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Vue.js"/>
+          <br /><b>Vue.js</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Vue.js+Projects" width="250" alt="Vue.js Projects"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>📱 Mobile Development</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/flutter-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" alt="Flutter"/>
+          <br /><b>Flutter</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Flutter+Projects" width="250" alt="Flutter Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/reactnative-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React Native"/>
+          <br /><b>React Native</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=React+Native+Projects" width="250" alt="React Native Projects"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🔙 Backend Development</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/nodejs-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js"/>
+          <br /><b>Node.js</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Node.js+Projects" width="250" alt="Node.js Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/java-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+          <br /><b>Java</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Java+Projects" width="250" alt="Java Projects"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/spring-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
+          <br /><b>Spring Boot</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Spring+Boot+Projects" width="250" alt="Spring Boot Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/python-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python (Django/Flask)"/>
+          <br /><b>Python (Django/Flask)</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Python+Projects" width="250" alt="Python Projects"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/dotnet-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="60" height="60" alt=".NET"/>
+          <br /><b>.NET</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=.NET+Projects" width="250" alt=".NET Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/express-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" alt="Express.js"/>
+          <br /><b>Express.js</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Express.js+Projects" width="250" alt="Express.js Projects"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🗄️ Databases</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/mongodb-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" alt="MongoDB"/>
+          <br /><b>MongoDB</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=MongoDB+Projects" width="250" alt="MongoDB Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/mysql-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+          <br /><b>MySQL</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=MySQL+Projects" width="250" alt="MySQL Projects"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/postgresql-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+          <br /><b>PostgreSQL</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=PostgreSQL+Projects" width="250" alt="PostgreSQL Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/firebase-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60" alt="Firebase"/>
+          <br /><b>Firebase</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Firebase+Projects" width="250" alt="Firebase Projects"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>☁️ Cloud Services</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/aws-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" alt="AWS"/>
+          <br /><b>AWS</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=AWS+Projects" width="250" alt="AWS Projects"/>
+        </a>
+      </td>
+      <td align="center" width="350">
+        <a href="https://myportfolio.com/azure-docs">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="Azure"/>
+          <br /><b>Azure</b>
+          <br />
+          <img src="https://via.placeholder.com/250x120?text=Azure+Projects" width="250" alt="Azure Projects"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+```
 
 <h2 align="center">🚀 Featured Projects</h2>
 
