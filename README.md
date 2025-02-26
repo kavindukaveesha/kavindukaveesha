@@ -1,4 +1,4 @@
-# <div align="center">
+ <div align="center overflow-x: auto; -webkit-overflow-scrolling: touch; h-50">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kavindu+Kaveesha;Full-Stack+Software+Engineer;Innovative+Solutions+Architect)](https://git.io/typing-svg)
 
