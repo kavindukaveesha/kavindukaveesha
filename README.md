@@ -77,7 +77,7 @@ const me: Developer = {
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
           <br /><b>React</b>
           <br />
-          <img src="https://via.placeholder.com/250x120?text=React+Projects" width="250" alt="React Projects"/>
+          <img src="reactjs.jpg" width="250" alt="React Projects"/>
         </a>
       </td>
       <td align="center" width="350">
@@ -85,7 +85,7 @@ const me: Developer = {
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js"/>
           <br /><b>Next.js</b>
           <br />
-          <img src="https://via.placeholder.com/250x120?text=Next.js+Projects" width="250" alt="Next.js Projects"/>
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/nextjs.jpg" width="250" alt="Next.js Projects"/>
         </a>
       </td>
     </tr>
@@ -95,17 +95,10 @@ const me: Developer = {
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" height="60" alt="Angular"/>
           <br /><b>Angular</b>
           <br />
-          <img src="https://via.placeholder.com/250x120?text=Angular+Projects" width="250" alt="Angular Projects"/>
+          <img src="https://github.com/kavindukaveesha/kavindukaveesha/blob/main/images/angular.jpg" width="250" alt="Angular Projects"/>
         </a>
       </td>
-      <td align="center" width="350">
-        <a href="https://myportfolio.com/vue-docs">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60" height="60" alt="Vue.js"/>
-          <br /><b>Vue.js</b>
-          <br />
-          <img src="https://via.placeholder.com/250x120?text=Vue.js+Projects" width="250" alt="Vue.js Projects"/>
-        </a>
-      </td>
+     
     </tr>
   </table>
 </div>
