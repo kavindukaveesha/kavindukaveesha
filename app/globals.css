@@ -1,0 +1,211 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Space Colors - Deep Blues with more depth and richness */
+  --color-space-50: #F8FAFF;
+  --color-space-100: #E6F0FF;
+  --color-space-200: #CFE0FF;
+  --color-space-300: #B1C8FE;
+  --color-space-350: #93B5FD;
+  --color-space-400: #7FA2FB;
+  --color-space-450: #6D8DF9;
+  --color-space-500: #5B7CF6;
+  --color-space-550: #4A6BE8;
+  --color-space-600: #3D56DD;
+  --color-space-650: #3347C1;
+  --color-space-700: #283BA8;
+  --color-space-750: #1E3582;
+  --color-space-800: #1A2E6C;
+  --color-space-850: #102147;
+  --color-space-900: #0A1836;
+  --color-space-925: #070F20;
+  --color-space-950: #050914;
+
+  /* Nebula Colors - Cosmic Purples and Indigos */
+  --color-nebula-100: #EEEBFE;
+  --color-nebula-200: #DCD7FD;
+  --color-nebula-300: #C8BFFC;
+  --color-nebula-350: #B3A7FA;
+  --color-nebula-400: #9D8FF8;
+  --color-nebula-450: #8879F4;
+  --color-nebula-500: #7568F0;
+  --color-nebula-550: #6355E7;
+  --color-nebula-600: #5747DA;
+  --color-nebula-650: #4B3BC5;
+  --color-nebula-700: #4335AF;
+  --color-nebula-750: #3A309A;
+  --color-nebula-800: #322985;
+  --color-nebula-850: #2A2470;
+  --color-nebula-900: #221C5A;
+  --color-nebula-950: #191245;
+
+  /* Aurora Colors - Vivid Teals and Cyans */
+  --color-aurora-100: #D5F9FD;
+  --color-aurora-200: #9EEEF9;
+  --color-aurora-300: #65E4F6;
+  --color-aurora-350: #43DCF3;
+  --color-aurora-400: #2ED0EF;
+  --color-aurora-450: #1FC2E7;
+  --color-aurora-500: #18B5DE;
+  --color-aurora-550: #16A7CA;
+  --color-aurora-600: #1394B5;
+  --color-aurora-650: #1186A0;
+  --color-aurora-700: #0F788B;
+  --color-aurora-750: #0C6A76;
+  --color-aurora-800: #0A5C66;
+  --color-aurora-850: #084751;
+  --color-aurora-900: #06323B;
+  --color-aurora-950: #04252A;
+
+  /* Pulsar Colors - Vibrant Magentas and Pinks */
+  --color-pulsar-100: #FBE8FE;
+  --color-pulsar-200: #F5C6FD;
+  --color-pulsar-300: #F09CFB;
+  --color-pulsar-350: #E97FF9;
+  --color-pulsar-400: #E362F7;
+  --color-pulsar-450: #DA4CEF;
+  --color-pulsar-500: #D13DE6;
+  --color-pulsar-550: #C434D3;
+  --color-pulsar-600: #B62CC0;
+  --color-pulsar-650: #A426AD;
+  --color-pulsar-700: #92209A;
+  --color-pulsar-750: #801C87;
+  --color-pulsar-800: #6E1874;
+  --color-pulsar-850: #5C1461;
+  --color-pulsar-900: #4A104F;
+  --color-pulsar-950: #370A3A;
+
+  /* Neutron Colors - Sophisticated Silvers and Titanium */
+  --color-neutron-100: #EDF0F6;
+  --color-neutron-200: #DCE2ED;
+  --color-neutron-300: #CAD2E1;
+  --color-neutron-350: #B8C2D5;
+  --color-neutron-400: #A7B3C9;
+  --color-neutron-450: #96A3BC;
+  --color-neutron-500: #8694B0;
+  --color-neutron-550: #7683A1;
+  --color-neutron-600: #657192;
+  --color-neutron-650: #576583;
+  --color-neutron-700: #4B5775;
+  --color-neutron-750: #414C68;
+  --color-neutron-800: #39435B;
+  --color-neutron-850: #2E364C;
+  --color-neutron-900: #242B3D;
+  --color-neutron-950: #1A1F2E;
+
+  /* Quasar Colors - Subtle Golden Accents */
+  --color-quasar-100: #FEECBD;
+  --color-quasar-200: #FDD083;
+  --color-quasar-300: #FBB44A;
+  --color-quasar-400: #F99B17;
+  --color-quasar-500: #D97F0C;
+  --color-quasar-600: #B36A0A;
+  --color-quasar-700: #8D5408;
+  --color-quasar-800: #663D06;
+  --color-quasar-900: #402704;
+  --color-quasar-950: #2D1C04;
+
+  /* Nova Colors - Subtle Red Accents */
+  --color-nova-100: #FEDBD7;
+  --color-nova-200: #FAB8AF;
+  --color-nova-300: #F59183;
+  --color-nova-400: #F06A5A;
+  --color-nova-500: #E64531;
+  --color-nova-600: #CB2E1B;
+  --color-nova-700: #A02415;
+  --color-nova-800: #751A10;
+  --color-nova-900: #4A0F0A;
+  --color-nova-950: #330A06;
+}
+
+/* Space-themed scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-space-950);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-nebula-800);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-nebula-700);
+}
+
+/* Prevent blue highlight on mobile tap */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Base styles */
+body {
+  background-color: var(--color-space-950);
+  color: var(--color-neutron-200);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Focus states with cosmic styling */
+*:focus-visible {
+  outline: 2px solid var(--color-pulsar-500);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px var(--color-space-950), 0 0 0 6px var(--color-pulsar-500);
+}
+
+/* Typography enhancements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Space Grotesk', 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* Selection highlight */
+::selection {
+  background-color: var(--color-nebula-700);
+  color: white;
+}
+
+/* Optional: Add image and element glow effects */
+.cosmic-glow {
+  filter: drop-shadow(0 0 8px var(--color-space-500));
+}
+
+.pulsar-glow {
+  filter: drop-shadow(0 0 8px var(--color-pulsar-500));
+}
+
+.aurora-glow {
+  filter: drop-shadow(0 0 8px var(--color-aurora-500));
+}
+
+/* Link styling */
+a {
+  color: var(--color-nebula-400);
+  transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-pulsar-400);
+  text-shadow: 0 0 8px var(--color-pulsar-500);
+}
+
+/* Button styling */
+button, 
+.button {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+button:active,
+.button:active {
+  transform: translateY(1px);
+}
+
+/* Dark mode adjustments (can be expanded) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* You can adjust dark mode specific variable customizations here if needed */
+  }
+}
