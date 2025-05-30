@@ -1,9 +1,35 @@
-import type { Metadata } from "next";
+"use client"
 
-export const metadata: Metadata = {
-  title: "Dashboard - Space Portfolio",
-  description: "Manage your portfolio content",
-};
+import Sidebar from '@/components/dashboard/sidebar';
+import Header from '@/components/dashboard/header';
+import { SidebarProvider, useSidebar } from '@/components/dashboard/sidebar-context';
+
+function DashboardContent({ children }: { children: React.ReactNode }) {
+  const { collapsed } = useSidebar();
+  
+  return (
+    <div className="min-h-screen relative overflow-hidden" style={{ background: 'var(--dashboard-bg)' }}>
+      {/* Background gradient effect with blue-black mix (60%) and blue accents (40%) */}
+      <div className="fixed inset-0 bg-gradient-to-br from-blue-black-600/8 via-transparent to-blue-600/4 pointer-events-none" />
+      <div className="fixed inset-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-blue-black-600/12 via-transparent to-transparent pointer-events-none" />
+      
+      <Sidebar />
+      <main 
+        className={`transition-all duration-300 relative z-10 ${
+          collapsed ? 'ml-[80px]' : 'ml-[280px]'
+        }`}
+      >
+        <div className="min-h-screen">
+          <Header />
+          
+          <div className="px-8 py-6">
+            {children}
+          </div>
+        </div>
+      </main>
+    </div>
+  );
+}
 
 export default function DashboardLayout({
   children,
@@ -11,47 +37,8 @@ export default function DashboardLayout({
   children: React.ReactNode;
 }) {
   return (
-    <div className="min-h-screen bg-space-950">
-      <aside className="fixed left-0 top-0 z-40 h-screen w-64 bg-space-900 border-r border-space-800">
-        <div className="flex h-full flex-col px-3 py-4">
-          <div className="mb-10 px-3">
-            <h2 className="text-2xl font-bold text-neutron-200">Dashboard</h2>
-          </div>
-          
-          <nav className="flex-1 space-y-2">
-            <a href="/dashboard" className="flex items-center px-3 py-2 text-neutron-300 rounded-lg hover:bg-space-800 hover:text-neutron-100 transition-colors">
-              <span>Overview</span>
-            </a>
-            <a href="/dashboard/projects" className="flex items-center px-3 py-2 text-neutron-300 rounded-lg hover:bg-space-800 hover:text-neutron-100 transition-colors">
-              <span>Projects</span>
-            </a>
-            <a href="/dashboard/profile" className="flex items-center px-3 py-2 text-neutron-300 rounded-lg hover:bg-space-800 hover:text-neutron-100 transition-colors">
-              <span>Profile</span>
-            </a>
-            <a href="/dashboard/analytics" className="flex items-center px-3 py-2 text-neutron-300 rounded-lg hover:bg-space-800 hover:text-neutron-100 transition-colors">
-              <span>Analytics</span>
-            </a>
-            <a href="/dashboard/settings" className="flex items-center px-3 py-2 text-neutron-300 rounded-lg hover:bg-space-800 hover:text-neutron-100 transition-colors">
-              <span>Settings</span>
-            </a>
-          </nav>
-          
-          <div className="border-t border-space-800 pt-4">
-            <a href="/" className="flex items-center px-3 py-2 text-neutron-300 rounded-lg hover:bg-space-800 hover:text-neutron-100 transition-colors">
-              <span>View Portfolio</span>
-            </a>
-            <button className="w-full flex items-center px-3 py-2 text-nova-400 rounded-lg hover:bg-space-800 hover:text-nova-300 transition-colors">
-              <span>Logout</span>
-            </button>
-          </div>
-        </div>
-      </aside>
-      
-      <main className="ml-64">
-        <div className="p-4">
-          {children}
-        </div>
-      </main>
-    </div>
+    <SidebarProvider>
+      <DashboardContent>{children}</DashboardContent>
+    </SidebarProvider>
   );
 }
