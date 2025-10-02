@@ -28,31 +28,60 @@
 ```typescript
 class SoftwareEngineer {
   constructor() {
-    this.name = "Kavindu Kaveesha";
+    this.name = "B. A. Kavindu Kaveesha Gimhan";
     this.role = "Full-Stack Software Engineer";
     this.location = "Sri Lanka 🇱🇰";
-    this.experience = "5+ years";
-    this.passions = [
-      "Clean Code Architecture",
-      "Scalable Systems Design", 
-      "Innovation & Problem Solving"
+    this.education = "BSc Honors in Software Engineering (2022-2026)";
+    this.university = "NSBM Green University";
+    this.gpa = "3.2/4.0";
+    this.experience = "1+ year professional + 3+ years freelance";
+    this.currentPosition = "Full Stack Developer at Vihi IT Solutions";
+    this.specializations = [
+      "Enterprise Management Systems",
+      "Dynamic Policy Form Management",
+      "Role-Based Access Control (RBAC)",
+      "Microservices Architecture"
     ];
   }
 
-  getCurrentWork(): string[] {
+  getProfessionalExperience(): object {
+    return {
+      current: "Full Stack Developer at Vihi IT Solutions (Sept 2023 - Present)",
+      achievements: [
+        "Developed enterprise system serving 50+ daily active users",
+        "Built Dynamic Policy Form Management handling 1,000+ insurance records",
+        "Reduced form creation time by 70%",
+        "Improved deployment efficiency by 60% using Docker"
+      ],
+      freelance: "15+ full-stack applications with 98% client satisfaction"
+    };
+  }
+
+  getTechnicalExpertise(): string[] {
     return [
-      "Building enterprise-grade applications",
-      "Exploring AI/ML integrations",
-      "Contributing to open source",
-      "Mentoring fellow developers"
+      "Frontend: React, Next.js, Angular, Flutter, TypeScript",
+      "Backend: Spring Boot, Node.js, .NET Core, FastAPI",
+      "Databases: MySQL, PostgreSQL, MongoDB, Firebase",
+      "DevOps: Docker, CI/CD, GitHub Actions, AWS",
+      "Mobile: Flutter, React Native, Dart"
+    ];
+  }
+
+  getCurrentProjects(): string[] {
+    return [
+      "DIBMS Enterprise Management System",
+      "Drug Import Management Platform",
+      "Restaurant AI Sales Predictor",
+      "Microservices with Keycloak SSO"
     ];
   }
 
   getGoals2025(): string[] {
     return [
       "Master cloud-native architectures",
-      "Lead technical innovation",
-      "Expand AI/ML expertise"
+      "Lead technical innovation teams",
+      "Expand AI/ML expertise",
+      "Contribute to open source ecosystem"
     ];
   }
 }

@@ -164,3 +164,6 @@ storybook-static
 
 # Sentry Config File
 .sentryclirc
+
+# PDF files
+kavindukaveesha.pdf
