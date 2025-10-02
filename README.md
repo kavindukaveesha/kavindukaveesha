@@ -113,11 +113,171 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🚀 Featured Projects Portfolio
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🏥 DIBMS Enterprise Management System</h3>
+          <img src="./images/Dibms_ms.png" width="400" alt="DIBMS Enterprise Management System" style="border-radius: 10px; border: 2px solid #00D451;"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+          <br><br>
+          <p><strong>🎯 Enterprise insurance management platform</strong></p>
+          <p>Comprehensive enterprise system handling 50+ concurrent users with JWT authentication, dynamic policy forms, and multi-level permissions for insurance management.</p>
+          <br>
+          <p><strong>✨ Key Features:</strong></p>
+          <ul align="left">
+            <li>🔐 Multi-level RBAC authentication</li>
+            <li>📊 Dynamic policy form management</li>
+            <li>⚡ 70% reduction in form creation time</li>
+            <li>🚀 Docker containerization with CI/CD</li>
+          </ul>
+          <br>
+          <div align="center">
+            <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FFC107?style=for-the-badge&logo=vercel&logoColor=black" />
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>💊 Drug Import Management Platform</h3>
+          <img src="./images/drugimporter_ms.jpeg" width="400" alt="Drug Import Management Platform" style="border-radius: 10px; border: 2px solid #00D451;"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+          <br><br>
+          <p><strong>🎯 Pharmaceutical supply chain solution</strong></p>
+          <p>Platform connecting patients with importers/donors for medication accessibility with multi-role workflow and automated inventory management.</p>
+          <br>
+          <p><strong>✨ Key Features:</strong></p>
+          <ul align="left">
+            <li>🏥 Multi-role workflow system</li>
+            <li>📦 Automated inventory tracking</li>
+            <li>⏰ Expiry date monitoring</li>
+            <li>🔄 Supply chain automation</li>
+          </ul>
+          <br>
+          <div align="center">
+            <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FFC107?style=for-the-badge&logo=vercel&logoColor=black" />
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🎓 University Management System</h3>
+          <img src="./images/university_ms.png" width="400" alt="University Management System" style="border-radius: 10px; border: 2px solid #00D451;"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+          <br><br>
+          <p><strong>🎯 Complete academic management solution</strong></p>
+          <p>Comprehensive system managing 2,000+ student records with role-based access, course registration, and attendance tracking for educational institutions.</p>
+          <br>
+          <p><strong>✨ Key Features:</strong></p>
+          <ul align="left">
+            <li>👥 Multi-role user management</li>
+            <li>📚 Course registration system</li>
+            <li>📊 Attendance tracking automation</li>
+            <li>📈 Grade management optimization</li>
+          </ul>
+          <br>
+          <div align="center">
+            <a href="https://ums-sandy.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-00D451?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <h3>🍽️ Restaurant Management System</h3>
+          <img src="./images/Resturent_ms.png" width="400" alt="Restaurant Management System" style="border-radius: 10px; border: 2px solid #00D451;"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+          <br><br>
+          <p><strong>🎯 Multi-branch restaurant operations platform</strong></p>
+          <p>Advanced system managing 5 restaurant locations with centralized inventory control, staff scheduling, and Keycloak SSO supporting 100+ users.</p>
+          <br>
+          <p><strong>✨ Key Features:</strong></p>
+          <ul align="left">
+            <li>🏢 Multi-branch management</li>
+            <li>📦 Centralized inventory control</li>
+            <li>👨‍💼 Advanced staff scheduling</li>
+            <li>🔐 Keycloak SSO integration</li>
+          </ul>
+          <br>
+          <div align="center">
+            <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-FFC107?style=for-the-badge&logo=vercel&logoColor=black" />
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/kavindukaveesha?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-00D451?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 💻 Programming Languages
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br><strong>C#</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br><strong>Dart</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend Frameworks
 <table>
 <tr>
 <td align="center" width="96">
@@ -133,35 +293,23 @@
 <br><strong>Angular</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind</strong>
+<br><strong>Tailwind CSS</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
+<img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material-UI" />
+<br><strong>Material-UI</strong>
 </td>
 </tr>
 </table>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Frameworks
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><strong>Java</strong>
-</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
 <br><strong>Spring Boot</strong>
@@ -171,29 +319,21 @@
 <br><strong>Node.js</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><strong>FastAPI</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br><strong>Django</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-<br><strong>.NET</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Go" />
-<br><strong>Go</strong>
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET Core" />
+<br><strong>.NET Core</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><strong>Express</strong>
+<br><strong>Express.js</strong>
 </td>
 </tr>
 </table>
 
-### 📱 Mobile Development
+### 📱 Mobile Frameworks
 <table>
 <tr>
 <td align="center" width="96">
@@ -201,16 +341,8 @@
 <br><strong>Flutter</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-<br><strong>Dart</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
 <br><strong>React Native</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-<br><strong>Kotlin</strong>
 </td>
 </tr>
 </table>
@@ -339,118 +471,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavindukaveesha&theme=github_dark" width="100%" alt="Profile Summary"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Featured Projects Portfolio
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🏥 Medicine Management System</h3>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-          <br><br>
-          <p><strong>🎯 Cross-platform healthcare solution</strong></p>
-          <p>Advanced medicine management app with real-time synchronization, smart reminders, and comprehensive health analytics dashboard.</p>
-          <br>
-          <p><strong>✨ Key Features:</strong></p>
-          <ul align="left">
-            <li>🔄 Real-time cloud synchronization</li>
-            <li>📊 Advanced analytics dashboard</li>
-            <li>🔔 Smart medication reminders</li>
-            <li>📱 Cross-platform compatibility</li>
-          </ul>
-          <br>
-          <a href="https://github.com/kavindukaveesha/Medicine-managing-app">
-            <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🏗️ Construction Helper Platform</h3>
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-          <br><br>
-          <p><strong>🎯 Complete project management solution</strong></p>
-          <p>Comprehensive construction management platform with real-time tracking, team collaboration, and project analytics.</p>
-          <br>
-          <p><strong>✨ Key Features:</strong></p>
-          <ul align="left">
-            <li>📋 Project management dashboard</li>
-            <li>📈 Real-time progress tracking</li>
-            <li>👥 Team collaboration tools</li>
-            <li>📊 Comprehensive analytics</li>
-          </ul>
-          <br>
-          <a href="https://github.com/kavindukaveesha/Cunstruction-Helper-Project-full">
-            <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>🏛️ Auction Platform API</h3>
-          <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-          <br><br>
-          <p><strong>🎯 Enterprise-grade auction system</strong></p>
-          <p>Robust RESTful API with real-time bidding, secure authentication, and scalable microservices architecture.</p>
-          <br>
-          <p><strong>✨ Key Features:</strong></p>
-          <ul align="left">
-            <li>🔄 Real-time bidding system</li>
-            <li>🔐 Secure authentication & authorization</li>
-            <li>🏗️ Microservices architecture</li>
-            <li>📡 RESTful API design</li>
-          </ul>
-          <br>
-          <a href="https://github.com/kavindukaveesha/Thaprobid-Auction-Website-API-">
-            <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <h3>📚 Social Book Network</h3>
-          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-          <br><br>
-          <p><strong>🎯 Interactive social platform</strong></p>
-          <p>Social network for book enthusiasts with AI-powered recommendations, advanced search, and community features.</p>
-          <br>
-          <p><strong>✨ Key Features:</strong></p>
-          <ul align="left">
-            <li>🤖 AI-powered recommendations</li>
-            <li>🔍 Advanced search algorithms</li>
-            <li>👥 Community interaction features</li>
-            <li>📊 Reading analytics dashboard</li>
-          </ul>
-          <br>
-          <a href="https://github.com/kavindukaveesha/Social-Book-Network">
-            <img src="https://img.shields.io/badge/View_Project-00D451?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://github.com/kavindukaveesha?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-00D451?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" />
-  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
