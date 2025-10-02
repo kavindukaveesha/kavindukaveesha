@@ -25,148 +25,89 @@
 
 ### 🧑‍💻 About Me
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  
-  <!-- Left Column -->
-  <div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 1px solid #30363D; border-radius: 12px; padding: 24px; box-shadow: 0 8px 32px rgba(0, 212, 81, 0.1);">
-    
-    <!-- Personal Information Card -->
-    <div style="margin-bottom: 24px;">
-      <h4 style="color: #00D451; font-size: 18px; margin-bottom: 16px; display: flex; align-items: center;">
-        <span style="margin-right: 8px;">👨‍🎓</span> Personal Information
-      </h4>
-      <div style="background: rgba(0, 212, 81, 0.05); border-left: 4px solid #00D451; padding: 16px; border-radius: 8px;">
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #00D451;">Name:</strong> B. A. Kavindu Kaveesha Gimhan</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #00D451;">Role:</strong> Full-Stack Software Engineer</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #00D451;">Location:</strong> Sri Lanka 🇱🇰</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #00D451;">Education:</strong> BSc Honors in Software Engineering</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #00D451;">University:</strong> NSBM Green University (2022-2026)</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #00D451;">GPA:</strong> 3.2/4.0</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #00D451;">Experience:</strong> 1+ year professional + 3+ years freelance</p>
-      </div>
-    </div>
+<table align="center" width="100%" cellpadding="20" cellspacing="0" style="border-collapse: collapse;">
+<tr>
+<td width="50%" valign="top" style="padding-right: 30px; border-right: 1px solid #30363D;">
 
-    <!-- Current Position Card -->
-    <div style="margin-bottom: 24px;">
-      <h4 style="color: #00D451; font-size: 18px; margin-bottom: 16px; display: flex; align-items: center;">
-        <span style="margin-right: 8px;">💼</span> Current Position
-      </h4>
-      <div style="background: rgba(88, 166, 255, 0.05); border-left: 4px solid #58A6FF; padding: 16px; border-radius: 8px;">
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #58A6FF;">Company:</strong> Vihi IT Solutions</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #58A6FF;">Duration:</strong> September 2023 - Present</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #58A6FF;">Focus:</strong> Enterprise Management Systems</p>
-        <p style="margin: 8px 0; color: #C9D1D9;"><strong style="color: #58A6FF;">Team Size:</strong> 2+ Engineers</p>
-      </div>
-    </div>
+#### 👨‍🎓 Personal Information
+> **B. A. Kavindu Kaveesha Gimhan**  
+> Full-Stack Software Engineer | Sri Lanka 🇱🇰  
+> 
+> 🎓 **Education:** BSc Honors in Software Engineering  
+> 🏫 **University:** NSBM Green University (2022-2026)  
+> 📊 **GPA:** 3.2/4.0  
+> 💼 **Experience:** 1+ year professional experience  
 
-    <!-- Current Projects -->
-    <div>
-      <h4 style="color: #00D451; font-size: 18px; margin-bottom: 16px; display: flex; align-items: center;">
-        <span style="margin-right: 8px;">🚀</span> Current Projects
-      </h4>
-      <div style="background: rgba(255, 123, 114, 0.05); border-left: 4px solid #FF7B72; padding: 16px; border-radius: 8px;">
-        <ul style="margin: 0; padding-left: 20px; color: #C9D1D9;">
-          <li style="margin: 8px 0;">🏥 DIBMS Enterprise Management System</li>
-          <li style="margin: 8px 0;">💊 Drug Import Management Platform</li>
-          <li style="margin: 8px 0;">🤖 Restaurant AI Sales Predictor</li>
-          <li style="margin: 8px 0;">🔐 Microservices with Keycloak SSO</li>
-        </ul>
-      </div>
-    </div>
-  </div>
+#### 💼 Current Position
+```yaml
+Company: Vihi IT Solutions
+Duration: September 2023 - Present
+Focus: Enterprise Management Systems
+Team: 2+ Engineers
+Achievements:
+  - 50+ daily active users
+  - 1,000+ insurance records managed
+  - 70% reduction in form creation time
+  - 60% deployment efficiency improvement
+```
 
-  <!-- Right Column -->
-  <div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 1px solid #30363D; border-radius: 12px; padding: 24px; box-shadow: 0 8px 32px rgba(0, 212, 81, 0.1);">
-    
-    <!-- Specializations Card -->
-    <div style="margin-bottom: 24px;">
-      <h4 style="color: #00D451; font-size: 18px; margin-bottom: 16px; display: flex; align-items: center;">
-        <span style="margin-right: 8px;">🎯</span> Core Specializations
-      </h4>
-      <div style="background: rgba(164, 101, 255, 0.05); border-left: 4px solid #A465FF; padding: 16px; border-radius: 8px;">
-        <ul style="margin: 0; padding-left: 20px; color: #C9D1D9;">
-          <li style="margin: 8px 0;">Enterprise Management Systems</li>
-          <li style="margin: 8px 0;">Dynamic Policy Form Management</li>
-          <li style="margin: 8px 0;">Role-Based Access Control (RBAC)</li>
-          <li style="margin: 8px 0;">Microservices Architecture</li>
-          <li style="margin: 8px 0;">Real-time IoT Integration</li>
-          <li style="margin: 8px 0;">AI/ML Integration</li>
-        </ul>
-      </div>
-    </div>
+#### 🚀 Active Projects
+| Project | Technology Stack |
+|---------|------------------|
+| 🏥 **DIBMS Enterprise System** | React, Node.js, MySQL |
+| 💊 **Drug Import Platform** | Spring Boot, Next.js, PostgreSQL |
+| 🤖 **Restaurant AI Predictor** | FastAPI, TensorFlow, Next.js |
+| 🔐 **Microservices SSO** | Spring Boot, Keycloak, Docker |
 
-    <!-- Key Achievements Card -->
-    <div style="margin-bottom: 24px;">
-      <h4 style="color: #00D451; font-size: 18px; margin-bottom: 16px; display: flex; align-items: center;">
-        <span style="margin-right: 8px;">🏆</span> Key Achievements
-      </h4>
-      <div style="background: rgba(251, 197, 49, 0.05); border-left: 4px solid #FBC531; padding: 16px; border-radius: 8px;">
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; color: #C9D1D9;">
-          <div style="text-align: center; padding: 12px; background: rgba(0, 212, 81, 0.1); border-radius: 8px;">
-            <div style="font-size: 24px; font-weight: bold; color: #00D451;">50+</div>
-            <div style="font-size: 12px;">Daily Active Users</div>
-          </div>
-          <div style="text-align: center; padding: 12px; background: rgba(88, 166, 255, 0.1); border-radius: 8px;">
-            <div style="font-size: 24px; font-weight: bold; color: #58A6FF;">1,000+</div>
-            <div style="font-size: 12px;">Insurance Records</div>
-          </div>
-          <div style="text-align: center; padding: 12px; background: rgba(255, 123, 114, 0.1); border-radius: 8px;">
-            <div style="font-size: 24px; font-weight: bold; color: #FF7B72;">70%</div>
-            <div style="font-size: 12px;">Time Reduction</div>
-          </div>
-          <div style="text-align: center; padding: 12px; background: rgba(164, 101, 255, 0.1); border-radius: 8px;">
-            <div style="font-size: 24px; font-weight: bold; color: #A465FF;">98%</div>
-            <div style="font-size: 12px;">Client Satisfaction</div>
-          </div>
-        </div>
-      </div>
-    </div>
+</td>
+<td width="50%" valign="top" style="padding-left: 30px;">
 
-    <!-- Goals 2025 -->
-    <div>
-      <h4 style="color: #00D451; font-size: 18px; margin-bottom: 16px; display: flex; align-items: center;">
-        <span style="margin-right: 8px;">🎯</span> Goals 2025
-      </h4>
-      <div style="background: rgba(0, 212, 81, 0.05); border-left: 4px solid #00D451; padding: 16px; border-radius: 8px;">
-        <ul style="margin: 0; padding-left: 20px; color: #C9D1D9;">
-          <li style="margin: 8px 0;">☁️ Master cloud-native architectures</li>
-          <li style="margin: 8px 0;">👥 Lead technical innovation teams</li>
-          <li style="margin: 8px 0;">🧠 Expand AI/ML expertise</li>
-          <li style="margin: 8px 0;">🌍 Contribute to open source ecosystem</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
+#### 🎯 Core Specializations
+```typescript
+const specializations = {
+  enterprise: "Management Systems",
+  forms: "Dynamic Policy Management", 
+  security: "Role-Based Access Control",
+  architecture: "Microservices Design",
+  realtime: "IoT Integration",
+  ai: "Machine Learning Integration"
+};
+```
 
-<!-- Technical Expertise Section -->
-<div style="margin: 32px 0; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border: 1px solid #30363D; border-radius: 12px; padding: 24px; box-shadow: 0 8px 32px rgba(0, 212, 81, 0.1);">
-  <h4 style="color: #00D451; font-size: 20px; margin-bottom: 20px; text-align: center; display: flex; align-items: center; justify-content: center;">
-    <span style="margin-right: 8px;">💻</span> Technical Expertise
-  </h4>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px;">
-    <div style="text-align: center; padding: 16px; background: rgba(0, 212, 81, 0.05); border: 1px solid rgba(0, 212, 81, 0.2); border-radius: 8px;">
-      <div style="font-weight: bold; color: #00D451; margin-bottom: 8px;">Frontend</div>
-      <div style="color: #C9D1D9; font-size: 14px; line-height: 1.5;">React, Next.js, Angular<br>Flutter, TypeScript</div>
-    </div>
-    <div style="text-align: center; padding: 16px; background: rgba(88, 166, 255, 0.05); border: 1px solid rgba(88, 166, 255, 0.2); border-radius: 8px;">
-      <div style="font-weight: bold; color: #58A6FF; margin-bottom: 8px;">Backend</div>
-      <div style="color: #C9D1D9; font-size: 14px; line-height: 1.5;">Spring Boot, Node.js<br>.NET Core, FastAPI</div>
-    </div>
-    <div style="text-align: center; padding: 16px; background: rgba(255, 123, 114, 0.05); border: 1px solid rgba(255, 123, 114, 0.2); border-radius: 8px;">
-      <div style="font-weight: bold; color: #FF7B72; margin-bottom: 8px;">Database</div>
-      <div style="color: #C9D1D9; font-size: 14px; line-height: 1.5;">MySQL, PostgreSQL<br>MongoDB, Firebase</div>
-    </div>
-    <div style="text-align: center; padding: 16px; background: rgba(164, 101, 255, 0.05); border: 1px solid rgba(164, 101, 255, 0.2); border-radius: 8px;">
-      <div style="font-weight: bold; color: #A465FF; margin-bottom: 8px;">DevOps</div>
-      <div style="color: #C9D1D9; font-size: 14px; line-height: 1.5;">Docker, CI/CD<br>GitHub Actions, AWS</div>
-    </div>
-    <div style="text-align: center; padding: 16px; background: rgba(251, 197, 49, 0.05); border: 1px solid rgba(251, 197, 49, 0.2); border-radius: 8px;">
-      <div style="font-weight: bold; color: #FBC531; margin-bottom: 8px;">Mobile</div>
-      <div style="color: #C9D1D9; font-size: 14px; line-height: 1.5;">Flutter, React Native<br>Dart, Kotlin</div>
-    </div>
-  </div>
-</div>
+#### 💻 Technical Expertise
+
+<table width="100%" cellpadding="8" cellspacing="0">
+<tr>
+<td><strong>🎨 Frontend</strong></td>
+<td>React, Next.js, Angular, Flutter</td>
+</tr>
+<tr>
+<td><strong>⚙️ Backend</strong></td>
+<td>Spring Boot, Node.js, .NET Core</td>
+</tr>
+<tr>
+<td><strong>🗄️ Database</strong></td>
+<td>MySQL, PostgreSQL, MongoDB</td>
+</tr>
+<tr>
+<td><strong>☁️ DevOps</strong></td>
+<td>Docker, CI/CD, GitHub Actions</td>
+</tr>
+<tr>
+<td><strong>📱 Mobile</strong></td>
+<td>Flutter, React Native, Dart</td>
+</tr>
+</table>
+
+#### 🎯 Goals 2025
+- [ ] ☁️ **Cloud Mastery:** AWS/Azure certification & microservices
+- [ ] 👥 **Leadership:** Lead technical teams & mentor developers  
+- [ ] 🧠 **AI/ML:** Advanced machine learning implementations
+- [ ] 🌍 **Open Source:** Active community contributions
+
+</td>
+</tr>
+</table>
 
 </td>
 <td width="50%" valign="top">
