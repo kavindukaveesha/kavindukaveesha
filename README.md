@@ -21,75 +21,64 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-class SoftwareEngineer {
-  constructor() {
-    this.name = "B. A. Kavindu Kaveesha Gimhan";
-    this.role = "Full-Stack Software Engineer";
-    this.location = "Sri Lanka 🇱🇰";
-    this.education = "BSc Honors in Software Engineering";
-    this.university = "NSBM Green University (2022-2026)";
-    this.gpa = "3.2/4.0";
-    this.experience = "1+ year professional experience";
-  }
+<table align="center" width="100%" cellpadding="15" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
 
-  getCurrentWork(): object {
-    return {
-      company: "Vihi IT Solutions",
-      duration: "September 2023 - Present",
-      focus: "Enterprise Management Systems",
-      team: "2+ Engineers",
-      achievements: [
-        "🎯 Serving 50+ daily active users",
-        "📊 Managing 1,000+ insurance records", 
-        "⚡ 70% reduction in form creation time",
-        "🚀 60% deployment efficiency improvement"
-      ]
-    };
-  }
+#### 👨‍🎓 Personal Information
+**Name:** B. A. Kavindu Kaveesha Gimhan  
+**Role:** Full-Stack Software Engineer  
+**Location:** Sri Lanka 🇱🇰  
+**Education:** BSc Honors in Software Engineering  
+**University:** NSBM Green University (2022-2026)  
+**GPA:** 3.2/4.0  
+**Experience:** 1+ year professional experience  
 
-  getActiveProjects(): string[] {
-    return [
-      "🏥 DIBMS Enterprise System - React, Node.js, MySQL",
-      "💊 Drug Import Platform - Spring Boot, Next.js, PostgreSQL", 
-      "🤖 Restaurant AI Predictor - FastAPI, TensorFlow, Next.js",
-      "🔐 Microservices SSO - Spring Boot, Keycloak, Docker"
-    ];
-  }
+#### 💼 Current Position
+**Company:** Vihi IT Solutions  
+**Duration:** September 2023 - Present  
+**Focus:** Enterprise Management Systems  
+**Team Size:** 2+ Engineers  
 
-  getSpecializations(): string[] {
-    return [
-      "Enterprise Management Systems",
-      "Dynamic Policy Form Management",
-      "Role-Based Access Control (RBAC)",
-      "Microservices Architecture",
-      "Real-time IoT Integration",
-      "AI/ML Integration"
-    ];
-  }
+**Key Achievements:**
+- 🎯 Serving 50+ daily active users
+- 📊 Managing 1,000+ insurance records
+- ⚡ 70% reduction in form creation time
+- 🚀 60% deployment efficiency improvement
 
-  getTechStack(): object {
-    return {
-      frontend: ["React", "Next.js", "Angular", "Flutter", "TypeScript"],
-      backend: ["Spring Boot", "Node.js", ".NET Core", "FastAPI"],
-      database: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-      devops: ["Docker", "CI/CD", "GitHub Actions", "AWS"],
-      mobile: ["Flutter", "React Native", "Dart", "Kotlin"]
-    };
-  }
+#### 🚀 Current Projects
+- 🏥 **DIBMS Enterprise System** - React, Node.js, MySQL
+- 💊 **Drug Import Platform** - Spring Boot, Next.js, PostgreSQL
+- 🤖 **Restaurant AI Predictor** - FastAPI, TensorFlow, Next.js
+- 🔐 **Microservices SSO** - Spring Boot, Keycloak, Docker
 
-  getGoals2025(): string[] {
-    return [
-      "☁️ Master cloud-native architectures",
-      "👥 Lead technical innovation teams", 
-      "🧠 Expand AI/ML expertise",
-      "🌍 Contribute to open source ecosystem"
-    ];
-  }
-}
+</td>
+<td width="50%" valign="top">
 
-const kavindu = new SoftwareEngineer();
-```
+#### 🎯 Core Specializations
+- Enterprise Management Systems
+- Dynamic Policy Form Management
+- Role-Based Access Control (RBAC)
+- Microservices Architecture
+- Real-time IoT Integration
+- AI/ML Integration
+
+#### 💻 Technical Skills
+**Frontend:** React, Next.js, Angular, Flutter, TypeScript  
+**Backend:** Spring Boot, Node.js, .NET Core, FastAPI  
+**Database:** MySQL, PostgreSQL, MongoDB, Firebase  
+**DevOps:** Docker, CI/CD, GitHub Actions, AWS  
+**Mobile:** Flutter, React Native, Dart, Kotlin  
+
+#### 🎯 Goals 2025
+- ☁️ Master cloud-native architectures
+- 👥 Lead technical innovation teams
+- 🧠 Expand AI/ML expertise
+- 🌍 Contribute to open source ecosystem
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -103,9 +92,12 @@ const kavindu = new SoftwareEngineer();
   <img src="https://github-profile-trophy.vercel.app/?username=kavindukaveesha&theme=discord&no-frame=true&column=3&margin-w=5&margin-h=5&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues" />
 </div>
 
+</td>
+<td width="50%" valign="top">
+
 **🎯 Quick Stats:**
-- 💼 **50+** Projects Completed
-- 🌟 **5+** Years Experience  
+- 💼 **15+** Projects Completed
+- 🌟 **1+** Years Experience  
 - 🚀 **15+** Technologies Mastered
 - 🤝 **Open Source** Contributor
 - 📚 **Continuous** Learner
