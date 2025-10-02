@@ -199,22 +199,23 @@
       </td>
       <td width="50%" valign="top">
         <div align="center">
-          <h3>🍽️ Restaurant Management System</h3>
-          <img src="./images/Resturent_ms.png" width="400" alt="Restaurant Management System" style="border-radius: 10px; border: 2px solid #00D451;"/>
+          <h3>🍽️ DietFood Ordering System</h3>
+          <img src="./images/Resturent_ms.png" width="400" alt="DietFood Ordering System" style="border-radius: 10px; border: 2px solid #00D451;"/>
           <br><br>
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
           <br><br>
-          <p><strong>🎯 Multi-branch restaurant operations platform</strong></p>
-          <p>Advanced system managing 5 restaurant locations with centralized inventory control, staff scheduling, and Keycloak SSO supporting 100+ users.</p>
+          <p><strong>🎯 MERN dashboard for healthy meal ordering</strong></p>
+          <p>Built MERN dashboard processing 100+ daily orders with nutritional tracking. Calculated meal nutrition for 200+ menu items helping customers meet dietary goals.</p>
           <br>
           <p><strong>✨ Key Features:</strong></p>
           <ul align="left">
-            <li>🏢 Multi-branch management</li>
-            <li>📦 Centralized inventory control</li>
-            <li>👨‍💼 Advanced staff scheduling</li>
-            <li>🔐 Keycloak SSO integration</li>
+            <li>🥗 Nutritional tracking for 200+ menu items</li>
+            <li>📊 Real-time order processing (100+ daily)</li>
+            <li>🔔 Live order updates reducing inquiries by 50%</li>
+            <li>🚀 60% deployment efficiency improvement</li>
           </ul>
           <br>
           <div align="center">
