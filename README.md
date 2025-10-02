@@ -19,97 +19,71 @@
 
 <br>
 
-<table align="center">
+## 🧑‍💻 About Me
+
+<table align="center" width="100%" cellpadding="15" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 About Me
-
-<table align="center" width="100%" cellpadding="20" cellspacing="0" style="border-collapse: collapse;">
-<tr>
-<td width="50%" valign="top" style="padding-right: 30px; border-right: 1px solid #30363D;">
-
 #### 👨‍🎓 Personal Information
-> **B. A. Kavindu Kaveesha Gimhan**  
-> Full-Stack Software Engineer | Sri Lanka 🇱🇰  
-> 
-> 🎓 **Education:** BSc Honors in Software Engineering  
-> 🏫 **University:** NSBM Green University (2022-2026)  
-> 📊 **GPA:** 3.2/4.0  
-> 💼 **Experience:** 1+ year professional experience  
+**Name:** B. A. Kavindu Kaveesha Gimhan  
+**Role:** Full-Stack Software Engineer  
+**Location:** Sri Lanka 🇱🇰  
+**Education:** BSc Honors in Software Engineering  
+**University:** NSBM Green University (2022-2026)  
+**GPA:** 3.2/4.0  
+**Experience:** 1+ year professional experience  
 
 #### 💼 Current Position
-```yaml
-Company: Vihi IT Solutions
-Duration: September 2023 - Present
-Focus: Enterprise Management Systems
-Team: 2+ Engineers
-Achievements:
-  - 50+ daily active users
-  - 1,000+ insurance records managed
-  - 70% reduction in form creation time
-  - 60% deployment efficiency improvement
-```
+**Company:** Vihi IT Solutions  
+**Duration:** September 2023 - Present  
+**Focus:** Enterprise Management Systems  
+**Team Size:** 2+ Engineers  
 
-#### 🚀 Active Projects
-| Project | Technology Stack |
-|---------|------------------|
-| 🏥 **DIBMS Enterprise System** | React, Node.js, MySQL |
-| 💊 **Drug Import Platform** | Spring Boot, Next.js, PostgreSQL |
-| 🤖 **Restaurant AI Predictor** | FastAPI, TensorFlow, Next.js |
-| 🔐 **Microservices SSO** | Spring Boot, Keycloak, Docker |
+**Key Achievements:**
+- 🎯 Serving 50+ daily active users
+- 📊 Managing 1,000+ insurance records
+- ⚡ 70% reduction in form creation time
+- 🚀 60% deployment efficiency improvement
+
+#### 🚀 Current Projects
+- 🏥 **DIBMS Enterprise System** - React, Node.js, MySQL
+- 💊 **Drug Import Platform** - Spring Boot, Next.js, PostgreSQL
+- 🤖 **Restaurant AI Predictor** - FastAPI, TensorFlow, Next.js
+- 🔐 **Microservices SSO** - Spring Boot, Keycloak, Docker
 
 </td>
-<td width="50%" valign="top" style="padding-left: 30px;">
+<td width="50%" valign="top">
 
 #### 🎯 Core Specializations
-```typescript
-const specializations = {
-  enterprise: "Management Systems",
-  forms: "Dynamic Policy Management", 
-  security: "Role-Based Access Control",
-  architecture: "Microservices Design",
-  realtime: "IoT Integration",
-  ai: "Machine Learning Integration"
-};
-```
+- Enterprise Management Systems
+- Dynamic Policy Form Management
+- Role-Based Access Control (RBAC)
+- Microservices Architecture
+- Real-time IoT Integration
+- AI/ML Integration
 
-#### 💻 Technical Expertise
-
-<table width="100%" cellpadding="8" cellspacing="0">
-<tr>
-<td><strong>🎨 Frontend</strong></td>
-<td>React, Next.js, Angular, Flutter</td>
-</tr>
-<tr>
-<td><strong>⚙️ Backend</strong></td>
-<td>Spring Boot, Node.js, .NET Core</td>
-</tr>
-<tr>
-<td><strong>🗄️ Database</strong></td>
-<td>MySQL, PostgreSQL, MongoDB</td>
-</tr>
-<tr>
-<td><strong>☁️ DevOps</strong></td>
-<td>Docker, CI/CD, GitHub Actions</td>
-</tr>
-<tr>
-<td><strong>📱 Mobile</strong></td>
-<td>Flutter, React Native, Dart</td>
-</tr>
-</table>
+#### 💻 Technical Skills
+**Frontend:** React, Next.js, Angular, Flutter, TypeScript  
+**Backend:** Spring Boot, Node.js, .NET Core, FastAPI  
+**Database:** MySQL, PostgreSQL, MongoDB, Firebase  
+**DevOps:** Docker, CI/CD, GitHub Actions, AWS  
+**Mobile:** Flutter, React Native, Dart, Kotlin  
 
 #### 🎯 Goals 2025
-- [ ] ☁️ **Cloud Mastery:** AWS/Azure certification & microservices
-- [ ] 👥 **Leadership:** Lead technical teams & mentor developers  
-- [ ] 🧠 **AI/ML:** Advanced machine learning implementations
-- [ ] 🌍 **Open Source:** Active community contributions
+- ☁️ Master cloud-native architectures
+- 👥 Lead technical innovation teams
+- 🧠 Expand AI/ML expertise
+- 🌍 Contribute to open source ecosystem
 
 </td>
 </tr>
 </table>
 
-</td>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table align="center">
+<tr>
 <td width="50%" valign="top">
 
 ### 🏆 Achievements & Stats
