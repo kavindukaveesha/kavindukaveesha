@@ -730,3 +730,67 @@ Navigational: Kavindu Kaveesha GitHub, Kavindu Kaveesha Portfolio, DIBMS System,
 Transactional: Hire Full Stack Developer, Freelance React Developer, Enterprise Software Development Services
 Commercial: Full Stack Development Company Sri Lanka, React Node.js Development Team, Custom Software Solutions
 -->
+
+<!-- JSON-LD Structured Data for Enhanced Search Results -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "B. A. Kavindu Kaveesha Gimhan",
+  "alternateName": "Kavindu Kaveesha",
+  "jobTitle": "Full-Stack Software Engineer",
+  "description": "Senior Full-Stack Software Engineer from Sri Lanka specializing in React, Node.js, Spring Boot, and Enterprise Systems. Expert in building scalable web applications with 1+ years professional experience.",
+  "url": "https://kavindukaveesha.vercel.app",
+  "image": "https://github.com/kavindukaveesha.png",
+  "sameAs": [
+    "https://github.com/kavindukaveesha",
+    "https://www.linkedin.com/in/kavindu-kaveesha-7296101a4",
+    "https://x.com/Kavindu_725",
+    "https://www.facebook.com/kavindu.kaveesha.712",
+    "https://medium.com/@kavindukaveesha16",
+    "https://kavindukaveesha.vercel.app"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "LK",
+    "addressRegion": "Western Province",
+    "addressLocality": "Sri Lanka"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "NSBM Green University",
+    "description": "BSc Honors in Software Engineering"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Vihi IT Solutions",
+    "description": "Enterprise Management Systems Development"
+  },
+  "knowsAbout": [
+    "React", "Next.js", "Node.js", "Spring Boot", "Java", "JavaScript", 
+    "TypeScript", "Python", "Docker", "Kubernetes", "AWS", "Azure", 
+    "MySQL", "PostgreSQL", "MongoDB", "Flutter", "React Native", 
+    "Microservices", "DevOps", "CI/CD", "Enterprise Systems", 
+    "Insurance Management", "Healthcare Software", "Full Stack Development"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "BSc Honors in Software Engineering",
+      "educationalLevel": "Bachelor's Degree",
+      "credentialCategory": "degree"
+    }
+  ],
+  "memberOf": {
+    "@type": "Organization",
+    "name": "GitHub Developer Community"
+  }
+}
+</script>
+
+<!-- Enhanced Breadcrumb Schema -->
+<!--
+GitHub > Developers > Sri Lanka > Full Stack Developer > Kavindu Kaveesha
+GitHub > Software Engineering > React Developer > Kavindu Kaveesha
+GitHub > Enterprise Software > Spring Boot Expert > Kavindu Kaveesha
+-->
