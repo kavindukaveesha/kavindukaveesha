@@ -120,7 +120,6 @@ twitter:image:alt: Kavindu Kaveesha GitHub Profile - Full Stack Developer Portfo
 **Location:** Sri Lanka 🇱🇰  
 **Education:** BSc Honors in Software Engineering  
 **University:** NSBM Green University (2022-2026)  
-**GPA:** 3.2/4.0  
 **Experience:** 1+ year professional experience  
 
 #### 💼 Current Position
@@ -535,10 +534,12 @@ twitter:image:alt: Kavindu Kaveesha GitHub Profile - Full Stack Developer Portfo
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=kavindukaveesha&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&icon_color=00D451&ring_color=00D451&custom_title=GitHub%20Stats%20-%20Kavindu%20Kaveesha" alt="GitHub Stats - Kavindu Kaveesha" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kavindukaveesha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d451&text_color=c9d1d9&icon_color=00d451" alt="GitHub Stats - Kavindu Kaveesha" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindukaveesha&theme=github-dark-green&hide_border=true&background=0D1117&stroke=00D451&ring=00D451&fire=00D451&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=00D451&sideNums=00D451" alt="GitHub Streak - Kavindu Kaveesha" />
+        <div align="center">
+          <img src="https://github-profile-trophy.vercel.app/?username=kavindukaveesha&theme=radical&no-frame=true&column=3&margin-w=5&margin-h=5&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues" alt="GitHub Trophies - Kavindu Kaveesha"/>
+        </div>
       </td>
     </tr>
   </table>
@@ -550,10 +551,10 @@ twitter:image:alt: Kavindu Kaveesha GitHub Profile - Full Stack Developer Portfo
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindukaveesha&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&langs_count=8&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages" alt="Most Used Programming Languages - Kavindu Kaveesha" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindukaveesha&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d451&text_color=c9d1d9&langs_count=8" alt="Most Used Programming Languages - Kavindu Kaveesha" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindukaveesha&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D451&text_color=58A6FF&langs_count=10&custom_title=Language%20Distribution" alt="Programming Language Distribution - Kavindu Kaveesha" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindukaveesha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d451&text_color=c9d1d9&langs_count=10" alt="Programming Language Distribution - Kavindu Kaveesha" />
       </td>
     </tr>
   </table>
@@ -562,11 +563,11 @@ twitter:image:alt: Kavindu Kaveesha GitHub Profile - Full Stack Developer Portfo
 ### 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindukaveesha&custom_title=Contribution%20Activity%20Graph%20-%20Kavindu%20Kaveesha&bg_color=0D1117&color=58A6FF&line=00D451&point=00D451&area_color=00D451&area=true&hide_border=true&theme=github-compact" width="100%" alt="GitHub Contribution Graph - Kavindu Kaveesha"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindukaveesha&bg_color=0d1117&color=c9d1d9&line=00d451&point=00d451&area_color=00d451&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph - Kavindu Kaveesha"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavindukaveesha&theme=github_dark" width="100%" alt="GitHub Profile Summary - Kavindu Kaveesha"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavindukaveesha&theme=radical" width="100%" alt="GitHub Profile Summary - Kavindu Kaveesha"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break">
@@ -630,48 +631,6 @@ twitter:image:alt: Kavindu Kaveesha GitHub Profile - Full Stack Developer Portfo
   <a href="mailto:kavindukaveesha16@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email - Contact Kavindu Kaveesha"/>
   </a>
-</div>
-
-### 🌐 Cross-Platform Presence & Authority Building
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h4>💼 Professional Networks</h4>
-        <p>
-          <strong><a href="https://www.linkedin.com/in/kavindu-kaveesha-7296101a4">LinkedIn Profile</a></strong><br>
-          Connect for professional opportunities
-        </p>
-        <p>
-          <strong><a href="https://kavindukaveesha.vercel.app">Portfolio Website</a></strong><br>
-          Explore my complete project showcase
-        </p>
-      </td>
-      <td align="center" width="33%">
-        <h4>📝 Content & Insights</h4>
-        <p>
-          <strong><a href="https://medium.com/@kavindukaveesha16">Medium Blog</a></strong><br>
-          Technical articles & tutorials
-        </p>
-        <p>
-          <strong><a href="https://x.com/Kavindu_725">Twitter/X</a></strong><br>
-          Tech insights & industry updates
-        </p>
-      </td>
-      <td align="center" width="33%">
-        <h4>🤝 Social & Community</h4>
-        <p>
-          <strong><a href="https://www.facebook.com/kavindu.kaveesha.712">Facebook</a></strong><br>
-          Personal updates & networking
-        </p>
-        <p>
-          <strong><a href="https://github.com/kavindukaveesha">GitHub</a></strong><br>
-          Open source contributions
-        </p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ### 💬 Open for Opportunities
