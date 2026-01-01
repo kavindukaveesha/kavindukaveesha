@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Full-Stack Software Engineer from **Sri Lanka** 🇱🇰 with **1+ years** of professional experience building enterprise-grade applications. Currently at **Vihi IT Solutions** developing insurance management systems for Delmage & Halys Groups.
+Undergraduate Full-Stack Software Engineer from **Sri Lanka** 🇱🇰 with **1+ year** of experience building web and mobile applications using React.js, Next.js, Angular.js, Flutter, Spring Boot, Node.js, and .NET. Proficient in Backend Development, RESTful API development, CI/CD pipelines, and Docker containerization. Skilled in Agile methodologies and delivering scalable solutions with measurable business impact.
 
 - 🎓 **BSc Software Engineering** @ NSBM Green University (2022-2026)
 - 🚀 **Specialization:** Enterprise Systems, Microservices, RBAC Systems
