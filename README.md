@@ -31,19 +31,19 @@ Undergraduate Full-Stack Software Engineer from **Sri Lanka** 🇱🇰 with **1+
 ## 💼 Experience
 
 ### Vihi IT Solutions | Part-Time Full Stack Developer
-`Sep 2024 - Present`
+
 - Built enterprise insurance platform serving **50+ daily users** with React, Redux, Node.js, MySQL
 - Designed RBAC system protecting financial data across **5 departments**
 - Created Dynamic Form Builder managing **1,000+ policy records** with 16+ field types
 - Achieved **70% reduction** in form creation time
 
 ### Perporva (Pvt) Ltd | Full Stack Developer (Contract)
-`Mar 2025 - May 2025`
+
 - Upgraded YanLanka Bus Tracking System with Flutter mobile app & Laravel dashboard
 - Implemented secure OTP authentication handling **1,000+ monthly sessions**
 
 ### Freelance Developer
-`Jan 2024 - Present`
+
 - Delivered **10+ production applications** with **98% client satisfaction**
 - Technologies: React, Spring Boot, Laravel, Flutter
 
