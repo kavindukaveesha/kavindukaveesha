@@ -21,8 +21,7 @@
 
 Full-Stack Software Engineer from **Sri Lanka** 🇱🇰 with **1+ years** of professional experience building enterprise-grade applications. Currently at **Vihi IT Solutions** developing insurance management systems for Delmage & Halys Groups.
 
-- 🎓 **BSc Software Engineering** @ NSBM Green University (2022-2026) | GPA: 3.45/4.0
-- 💼 **Currently:** Part-Time Full Stack Developer @ Vihi IT Solutions
+- 🎓 **BSc Software Engineering** @ NSBM Green University (2022-2026)
 - 🚀 **Specialization:** Enterprise Systems, Microservices, RBAC Systems
 - 🌱 **Learning:** AWS Solutions Architecture, Advanced AI/ML Integration
 - 📫 **Reach me:** kavindukaveesha16@gmail.com | +94-771-235-703
