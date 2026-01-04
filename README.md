@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-kaveesha-7296101a4)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kavindukaveesha16@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kavindukaveesha?label=Follow&style=flat-square&logo=github)](https://github.com/kavindukaveesha)
+ <img src="https://komarev.com/ghpvc/?username=kavindukaveesha&style=for-the-badge&color=00D451&label=Profile+Views&labelColor=161B22" alt="Profile Views - Kavindu Kaveesha GitHub Software Engineer" />
 
 </div>
 
