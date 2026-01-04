@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D451&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Software+Engineer;React+%7C+Spring+Boot+%7C+Node.js+%7C+Flutter;Building+Enterprise+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D451&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+Software+Engineer;Spring+Boot+%7C+Node.js+%7C+.NET+Core;React+%7C+Angular+%7C+Next.js+%7C+Flutter;Building+Enterprise+Applications" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-kaveesha-7296101a4)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kavindukaveesha16@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kavindukaveesha?label=Follow&style=flat-square&logo=github)](https://github.com/kavindukaveesha)
- <img src="https://komarev.com/ghpvc/?username=kavindukaveesha&style=for-the-badge&color=00D451&label=Profile+Views&labelColor=161B22" alt="Profile Views - Kavindu Kaveesha GitHub Software Engineer" />
+![Profile Views](https://komarev.com/ghpvc/?username=kavindukaveesha&style=flat-square&color=00D451&label=Profile+Views)
 
 </div>
 
